@@ -1,0 +1,52 @@
+Part       Value               Device             Package        Description                                                 
+C1*        22p                 C-EU025-025X050    C025-025X050   CAPACITOR, European symbol                                  
+C2*        22p                 C-EU025-025X050    C025-025X050   CAPACITOR, European symbol                                  
+C3         10µ                 CPOL-EUE2.5-5      E2,5-5         POLARIZED CAPACITOR, European symbol                        
+C4         100n                C-EU025-025X050    C025-025X050   CAPACITOR, European symbol                                  
+C5         100n                C-EU025-025X050    C025-025X050   CAPACITOR, European symbol                                  
+C6         10µ                 CPOL-EUE2.5-5      E2,5-5         POLARIZED CAPACITOR, European symbol                        
+D1         1N4004              1N4004             DO41-10        DIODE                                                       
+IC1**      MEGA48/88/168-PU    MEGA48/88/168-PU   DIL28-3        MICROCONTROLLER                                             
+IC2        7805                78XXS              TO220          VOLTAGE REGULATOR                                           
+J1         9V=                 DCJ0303            DCJ0303        DC POWER JACK (5.5mm / 2.1mm)                               
+JP1        AVR-ISP-6           AVR-ISP-6          AVR-ISP-6      AVR ISP-6 Serial Programming Header                         
+LED1       SA52-11             7-SEG_SA52-11      SA52-11        Kingbright 14.2mm (0.56 INCH) SINGLE DIGIT NUMERIC DUISPLAY 
+LED2       SA52-11             7-SEG_SA52-11      SA52-11        Kingbright 14.2mm (0.56 INCH) SINGLE DIGIT NUMERIC DUISPLAY 
+LED3       SA52-11             7-SEG_SA52-11      SA52-11        Kingbright 14.2mm (0.56 INCH) SINGLE DIGIT NUMERIC DUISPLAY 
+LED4       SA52-11             7-SEG_SA52-11      SA52-11        Kingbright 14.2mm (0.56 INCH) SINGLE DIGIT NUMERIC DUISPLAY 
+Q1*        20MHz               CRYSTAL            HC49/S         CRYSTAL                                                     
+Q2         BC559C              BC559C             TO92-EBC       PNP Transistor                                             
+Q3         BC559C              BC559C             TO92-EBC       PNP Transistor                                             
+Q4         BC559C              BC559C             TO92-EBC       PNP Transistor                                             
+Q5         BC559C              BC559C             TO92-EBC       PNP Transistor                                             
+R1         10k                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R2         220                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R3         220                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R4         220                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R5         220                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R6***      220                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R7         220                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R8         220                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R9         220                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R10        220                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R11        2k2                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R12        2k2                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R13        2k2                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+R14        2k2                 R-EU_0204/7        0204/7         RESISTOR, European symbol                                   
+S1         A1                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S2         E5                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S3         FN                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S4         B2                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S5         F6                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S6         CL                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S7         C3                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S8         G7                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S9         GO                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S10        D4                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+S11        H8                  3FTH9 / DT6        3FTH9 / DT6    SWITCH, MULTIMEC 3FTH9 (10.16x7.62mm) OR ITT DT6 (5x5mm)    
+SG1***     F/CM12P             F/CM12P            F/CM12P        BUZZER                                                      
+X1         5V=                 PN87520            PN87520        USB-A connector                                             
+
+*optional for higher speed
+**socket is recommended
+***not used yet
